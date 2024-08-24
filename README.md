@@ -73,5 +73,26 @@ The **Admin Panel** is used to manage various aspects of the food delivery app, 
    - 🚀 **`npm run dev`**: This starts the development server for the Admin Panel. Like the frontend, it will typically open in your browser with live reloading functionality.
 
 ---
+### **Summary of Features for the Food Ordering App** 🍔📦
 
-By following these steps, you'll have your frontend, backend, and admin panel set up and running. Each part has its own isolated environment for development and testing, making it easier to manage. 😊
+- 🔒 **User Authentication**: Includes **login** and **signup** functionality to securely manage user accounts.
+  
+- 🛒 **Add to Cart**: Users can browse nearby famous food items, add items to the cart, and proceed to checkout.
+  
+- 💳 **Payment Methods**: Supports **Cash on Delivery (COD)** and online payments through **Stripe** for a seamless checkout experience.
+
+- 📝 **Order History**: Allows users to view and manage past orders, including tracking details and payment statuses.
+
+- 🔧 **Admin Panel**: Provides tools for the admin to manage orders, payments, and users, ensuring efficient control over all activities.
+
+---
+
+These features ensure a smooth and user-friendly experience for both customers and administrators in the food ordering app! 🍽️
+By following these steps, you'll have both the backend and frontend of your Resume Builder App running smoothly, with key features like authentication, payment integration, and data management fully functional! 😊
+
+
+
+
+
+
+
