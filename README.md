@@ -88,7 +88,7 @@ The **Admin Panel** is used to manage various aspects of the food delivery app, 
 ---
 
 These features ensure a smooth and user-friendly experience for both customers and administrators in the food ordering app! 🍽️
-By following these steps, you'll have both the backend and frontend of your Resume Builder App running smoothly, with key features like authentication, payment integration, and data management fully functional! 😊
+By following these steps, you'll have both the backend and frontend of your Food Ordering App running smoothly, with key features like authentication, payment integration, and data management fully functional! 😊
 
 
 
