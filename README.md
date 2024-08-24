@@ -18,7 +18,7 @@ This section covers the frontend part of your food delivery app, built with **Re
    ```
    - 📦 **`npm i`** (or **`npm install`**): This command installs all the necessary npm packages (dependencies) listed in your `package.json` file.
 
-3. **Run the development server:**
+2. **Run the development server:**
    ```bash
    npm run dev
    ```
