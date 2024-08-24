@@ -26,7 +26,7 @@ This section covers the frontend part of your food delivery app, built with **Re
 
 ---
 
-### 3. **Backend (Node.js/Express) Setup** 🖥️
+### 2. **Backend (Node.js/Express) Setup** 🖥️
 
 The backend typically involves using **Node.js** with **Express** to handle API requests, order processing, and user authentication.
 
@@ -50,7 +50,7 @@ The backend typically involves using **Node.js** with **Express** to handle API 
 
 ---
 
-### 4. **Admin Panel Setup** 🛠️
+### 3. **Admin Panel Setup** 🛠️
 
 The **Admin Panel** is used to manage various aspects of the food delivery app, like orders, users, and payments. It can be a standalone React dashboard or part of the existing frontend.
 
